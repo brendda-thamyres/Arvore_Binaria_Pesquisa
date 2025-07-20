@@ -52,7 +52,7 @@ Para maior facilidade ao utilizar o TAD, o programa oferece um menu interativo, 
 #### Clone o repositório no terminal (powershell ou prompt de comando)
 
 ```bash
-git clone 
+git clone https://github.com/brendda-thamyres/Arvore_Binaria_Pesquisa.git
 ````
 
 ### Via MYSYS2
@@ -60,7 +60,7 @@ git clone
 #### Vá até a pasta do projeto
 
 ```bash
-cd 
+cd Arvore_Binaria_Pesquisa
 ```
 
 #### Compile no terminal
@@ -82,7 +82,7 @@ make
 #### Vá até a pasta do projeto
 
 ```bash
-cd 
+cd Arvore_Binaria_Pesquisa
 ```
 
 #### Compile:
