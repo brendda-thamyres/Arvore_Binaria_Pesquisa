@@ -17,7 +17,7 @@ Este projeto é uma simulação de registro de animais, onde o tipo específico 
 
 - Nome: `char nome[30]`
 - Idade: `int idade`
-- Peso: `float renda_mensal`
+- Peso: `peso`
 
 Para maior facilidade ao utilizar o TAD, o programa oferece um menu interativo, permitindo que o usuário escolha qual operação realizar:
     - 1: Criar arvore de registro
